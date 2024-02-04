@@ -1,6 +1,6 @@
 ### Hi, I'm Kostia 👋
 
-I'm Kostiantyn Teltov. And I'm originally from Ukraine. I'm a Senior Software Development Engineer in Test with more than 15 years of experience and the author of several articles on [Medium](https://medium.com/@dneprokos)
+I'm Kostiantyn Teltov. And I'm originally from Ukraine. I'm a Senior Software Development Engineer in Test/QA Lead with more than 15 years of experience and the author of several articles on [Medium](https://medium.com/@dneprokos)
 
 🌟Expert in building Automation Solutions using C#, TypeScript with Playwright<br>
 🌟Have some experience with Java and Python programming languages<br>
