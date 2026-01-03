@@ -1,6 +1,6 @@
 ### Hi, I'm Kostia 👋
 
-I'm Kostiantyn Teltov, originally from Ukraine and currently living in Poland. I'm a QA Team Lead and Senior Software Development Engineer in Test with over 15 years of experience. I'm also the author of numerous articles on [Medium](https://medium.com/@dneprokos)
+I'm Kostiantyn Teltov, originally from Ukraine and currently living in Poland. I'm a QA Team Lead and Senior Software Development Engineer in Test with over 15 years of experience. I'm also the author of numerous articles on [Medium](https://medium.com/@dneprokos) and public speaker
 
 🌟Expert in establishing scalable QA strategies and testing frameworks<br>
 🌟Speaker and presenter at QA meetups, webinars, and tech events<br>
