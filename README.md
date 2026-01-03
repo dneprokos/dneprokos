@@ -38,10 +38,16 @@ I'm Kostiantyn Teltov, originally from Ukraine and currently living in Poland. I
 ### 📊 Statistics!
 <p align="left">
   <a href="https://github.com/dneprokos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dneprokos&layout=compact&theme=default" height="195px" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dneprokos&layout=compact&theme=default&cache_seconds=1800&hide_border=true"
+      height="195px"
+    />
   </a>
   <a href="https://github.com/dneprokos">
-    <img src="https://github-readme-stats.vercel.app/api?username=dneprokos&show_icons=true&theme=default" height="195px" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=dneprokos&show_icons=true&theme=default&cache_seconds=1800&hide_border=true"
+      height="195px"
+    />
   </a>
 </p>
 
