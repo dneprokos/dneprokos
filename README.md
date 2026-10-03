@@ -1,15 +1,21 @@
 ### Hi, I'm Kostia 👋
 
-I'm Kostiantyn Teltov, originally from Ukraine and now based in Krakow, Poland. I'm a QA Team & Technical Lead and SDET with 18+ years in Quality Assurance, 12+ of them in test automation. I build test automation and the test strategy behind it, and I bring AI into QA work with agentic workflows, reusable skills and MCP servers. I write on [Medium](https://medium.com/@dneprokos) and speak at QA conferences and meetups.
+I'm Kostiantyn Teltov, originally from Ukraine and now based in Krakow, Poland. I'm a QA Team & Technical Lead and SDET with 18+ years in Quality Assurance, 12+ of them in test automation. I don't only build solutions — I lead QA teams and shape the quality process that development teams work by:
+
+- **Test automation strategy** built on the Testing Pyramid, from unit and integration layers up to E2E
+- **AI adoption** in QA: agentic workflows, reusable skills and MCP servers that take routine work off the team
+- **Quality Gates** in CI/CD and release strategy, so quality is checked at every step, not at the end
+- **Quality metrics** — test coverage, bug leakage, feature tracking — to steer decisions with data
+
+I write on [Medium](https://medium.com/@dneprokos) and speak at QA conferences and meetups.
 
 🌟 Lead an independent QA & DevOps team shared across 5 projects; founder and QA Guild Master of a company-wide QA community<br>
-🌟 Design scalable test frameworks around the Testing Pyramid, Quality Gates and CI/CD<br>
+🌟 Architect and build scalable test automation for web, desktop, API and microservices<br>
 🌟 Grew functional test layers from 5 to 20 in a year, moving defect detection earlier in development<br>
 🌟 Build AI-assisted testing: agentic workflows, Claude Code subagents, skills and MCP servers that automate testing, reporting and analysis<br>
 🌟 Speaker at QA conferences and meetups, most recently on moving from prompts to agents in QA (Suvora QA Conference #002)<br>
 🌟 Author of 40+ technical articles on test automation, tools and best practices<br>
 🌟 Mentor: coach manual testers into writing automated tests, teach at online IT schools and QA bootcamps<br>
-🌟 Define and track quality metrics: test coverage, bug leakage, feature tracking<br>
 🌟 ISTQB Advanced Level Test Automation Engineering (CTAL-TAE v2.0) and Foundation Level (CTFL), SAFe Practitioner<br>
 
 ### 🤖 AI in QA
