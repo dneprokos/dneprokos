@@ -16,7 +16,7 @@ I write on [Medium](https://medium.com/@dneprokos) and speak at QA conferences a
 🌟 Speaker at QA conferences and meetups, most recently on moving from prompts to agents in QA (Suvora QA Conference #002)<br>
 🌟 Author of 40+ technical articles on test automation, tools and best practices<br>
 🌟 Mentor: coach manual testers into writing automated tests, teach at online IT schools and QA bootcamps<br>
-🌟 ISTQB Advanced Level Test Automation Engineering (CTAL-TAE v2.0) and Foundation Level (CTFL), SAFe Practitioner<br>
+🌟 ISTQB certified: Foundation Level and Advanced Level Test Automation Engineering<br>
 
 ### 🤖 AI in QA
 
@@ -27,6 +27,18 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 - **MCP integrations**: Jira/Confluence (Atlassian), GitHub, Slack, Playwright
 - **AI-powered quality analytics**: an internal tool for data analysis and visual reporting of quality trends
 - **Daily AI toolbox**: Claude and Claude Code for agents, skills and subagents; OpenAI Codex and GitHub Copilot for coding and test generation; Cursor as an AI-first IDE
+
+### 🎓 Certifications
+
+![ISTQB CTAL-TAE](https://img.shields.io/badge/ISTQB-Advanced%20Level%20Test%20Automation%20Engineer%20(CTAL--TAE%20v2.0)-003B71?style=for-the-badge)
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB-Foundation%20Level%20(CTFL)-003B71?style=for-the-badge)
+![SAFe Practitioner](https://img.shields.io/badge/SAFe-Practitioner-0A7EA4?style=for-the-badge)
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Certified Tester, Advanced Level Test Automation Engineering (CTAL-TAE v2.0) | ISTQB | 2026 |
+| Certified Tester, Foundation Level (CTFL) | ISTQB | 2017 |
+| SAFe Practitioner | Scaled Agile | 2016 |
 
 ### 📫 Reach me out!
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dneprokos@gmail.com)](mailto:dneprokos@gmail.com)
