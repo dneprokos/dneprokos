@@ -23,6 +23,7 @@ jobs:
           template: "- [$title]($url) — $date $newline"
           date_format: "mmm yyyy"
           skip_commit: true
+          tag_post_pre_newline: true
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v8

@@ -43,7 +43,8 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 
 ### ✍️ Latest Articles on Medium
 
-<!-- BLOG-POST-LIST:START -->- [GEN AI: The Art of Talking to Machines](https://medium.com/@dneprokos/gen-ai-the-art-of-talking-to-machines-fd8543d0e5a8?source=rss-ed663f95fcb3------2) — Oct 2026 
+<!-- BLOG-POST-LIST:START -->
+- [GEN AI: The Art of Talking to Machines](https://medium.com/@dneprokos/gen-ai-the-art-of-talking-to-machines-fd8543d0e5a8?source=rss-ed663f95fcb3------2) — Oct 2026 
 - [GenAI: Let’s Go Back to the Beginning](https://medium.com/@dneprokos/genai-lets-go-back-to-the-beginning-e7805cf6cb29?source=rss-ed663f95fcb3------2) — Oct 2026 
 - [AI Avengers: The Age of Sub-Agent Orchestration](https://medium.com/@dneprokos/ai-avengers-the-age-of-sub-agent-orchestration-b44bc4e1ef5c?source=rss-ed663f95fcb3------2) — Sep 2026 
 - [My ISTQB Odyssey: Nine Years from Foundation to Automation](https://medium.com/@dneprokos/my-istqb-odyssey-nine-years-from-foundation-to-automation-219598e26943?source=rss-ed663f95fcb3------2) — Jul 2026 
