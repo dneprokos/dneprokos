@@ -41,6 +41,13 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 | Certified Tester, Foundation Level (CTFL) | ISTQB | 2017 |
 | SAFe Practitioner | Scaled Agile | 2016 |
 
+### ✍️ Latest Articles on Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [All articles on Medium](https://medium.com/@dneprokos)
+
 ### 🛠️ Featured Projects
 
 | Project | What it is |
