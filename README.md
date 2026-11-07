@@ -1,6 +1,6 @@
 ### Hi, I'm Kostia 👋
 
-I'm Kostiantyn Teltov, originally from Ukraine and now based in Krakow, Poland. I'm a QA Team & Technical Lead and SDET with 18+ years in Quality Assurance, 12+ of them in test automation. I don't only build solutions — I lead QA teams and shape the quality process that development teams work by:
+I'm Kostiantyn Teltov, originally from Ukraine and now based in Krakow, Poland. I'm a QA Manager & Technical Lead, QA Architect and SDET with 18+ years in Quality Assurance, 12+ of them in test automation. I don't only build solutions — I lead QA teams and shape the quality process that development teams work by:
 
 - **Test automation strategy** built on the Testing Pyramid, from unit and integration layers up to E2E
 - **AI adoption** in QA: agentic workflows, reusable skills and MCP servers that take routine work off the team
@@ -24,7 +24,8 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 
 - **Agentic test workflows**: a Jira ticket goes through requirements, test design (ISTQB techniques), API and UI test generation, code review and a pull request, with review gates and quality checks between steps
 - **Reusable skills and subagents**: requirements review, test cases from acceptance criteria, bug filing, Slack bug triage, defect-leakage metrics
-- **MCP integrations**: Jira/Confluence (Atlassian), GitHub, Slack, Playwright
+- **Hooks and plugins**: Claude Code hooks that enforce checks around tool calls, and plugins that package skills, agents and hooks for the team to install in one step
+- **MCP integrations**: Jira/Confluence (Atlassian), GitHub, Slack, Playwright, plus my own MCP servers
 - **AI-powered quality analytics**: an internal tool for data analysis and visual reporting of quality trends
 - **Daily AI toolbox**: Claude and Claude Code for agents, skills and subagents; OpenAI Codex and GitHub Copilot for coding and test generation; Cursor as an AI-first IDE
 
@@ -39,6 +40,28 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 | Certified Tester, Advanced Level Test Automation Engineering (CTAL-TAE v2.0) | ISTQB | 2026 |
 | Certified Tester, Foundation Level (CTFL) | ISTQB | 2017 |
 | SAFe Practitioner | Scaled Agile | 2016 |
+
+### ✍️ Latest Articles on Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [All articles on Medium](https://medium.com/@dneprokos)
+
+### 🛠️ Featured Projects
+
+| Project | What it is |
+|---|---|
+| [deck-kit](https://github.com/dneprokos/deck-kit) | Claude Code plugin: plan and build presenter-grade HTML slide decks with a per-slide dialog and a 4-gate validation pipeline |
+| [agent-skills](https://github.com/dneprokos/agent-skills) | Reusable SKILL.md workflows for Claude Code, Cursor and Copilot: API test RTM generation, bug-report formatting, agentic workflow review, git automation |
+| [countries-mcp](https://github.com/dneprokos/countries-mcp) | MCP server (FastMCP) exposing country data from the REST Countries API to Cursor and other MCP clients |
+| [brag-document-mcp](https://github.com/dneprokos/brag-document-mcp) | MCP server (FastMCP) that creates and manages yearly brag documents in DOCX |
+| [exam-preparation-app](https://github.com/dneprokos/exam-preparation-app) | [Live](https://dneprokos.github.io/exam-preparation-app/) exam simulator for ISTQB CTAL-TAE and CT-GenAI (React + TypeScript) |
+| [playwright-test-demo](https://github.com/dneprokos/playwright-test-demo) | UI automation framework with Playwright, built for a demo session |
+
+### 🌍 Languages
+
+Ukrainian (native) · Russian (native) · English (upper-intermediate) · Polish (intermediate)
 
 ### 📫 Reach me out!
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dneprokos@gmail.com)](mailto:dneprokos@gmail.com)
@@ -56,6 +79,8 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/-Agentic%20Workflows-6E40C9?style=flat)
 ![Skills & Subagents](https://img.shields.io/badge/-Skills%20%26%20Subagents-6E40C9?style=flat)
+![Hooks](https://img.shields.io/badge/-Hooks-6E40C9?style=flat)
+![Plugins](https://img.shields.io/badge/-Plugins-6E40C9?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6E40C9?style=flat)
 
 **Languages**<br>
@@ -116,16 +141,12 @@ I use LLMs as part of my engineering workflow, not as a chat window:
 
 ### 📊 Statistics!
 <p align="left">
-  <a href="https://github.com/dneprokos">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dneprokos&layout=compact&theme=default&cache_seconds=1800&hide_border=true"
-      height="195px"
-    />
-  </a>
-  <a href="https://github.com/dneprokos">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=dneprokos&show_icons=true&theme=default&cache_seconds=1800&hide_border=true"
-      height="195px"
-    />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dneprokos&theme=default" alt="Profile details" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dneprokos&theme=default" alt="GitHub stats" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dneprokos&theme=default" alt="Top languages by repo" height="180px" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=dneprokos&hide_border=true" alt="GitHub streak" height="180px" />
 </p>

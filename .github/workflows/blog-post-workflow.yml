@@ -1,0 +1,23 @@
+name: Latest Medium articles
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest Medium articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://medium.com/feed/@dneprokos"
+          max_post_count: 5
+          template: "- [$title]($url) — $date $newline"
+          date_format: "mmm yyyy"
+          commit_message: "docs: update latest Medium articles"
